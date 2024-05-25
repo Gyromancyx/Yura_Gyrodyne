@@ -1,0 +1,76 @@
+﻿name: Yura Sashoune_Gyrodyne
+text_file_encoding: shift_jis
+image: Yura_japanese_icon.png
+portrait: Yura_japanese.png
+portrait_opacity: 0.67
+portrait_height: 0
+author: Gyromancy
+voice: Gyromancy
+web: twitter.com/gyromancyx | gyromancy.wixsite.com
+version: "1.0"
+subbanks:
+- color: ""
+  prefix: ""
+  suffix: _C6
+  tone_ranges:
+  - C6-B7
+- color: ""
+  prefix: ""
+  suffix: _G5
+  tone_ranges:
+  - G5-B5
+- color: ""
+  prefix: ""
+  suffix: _E5
+  tone_ranges:
+  - E5-F#5
+- color: ""
+  prefix: ""
+  suffix: _D5
+  tone_ranges:
+  - D5-D#5
+- color: ""
+  prefix: ""
+  suffix: _B4
+  tone_ranges:
+  - B4-C#5
+- color: ""
+  prefix: ""
+  suffix: _A4
+  tone_ranges:
+  - A4-A#4
+- color: ""
+  prefix: ""
+  suffix: _G4
+  tone_ranges:
+  - G4-G#4
+- color: ""
+  prefix: ""
+  suffix: _E4
+  tone_ranges:
+  - E4-F#4
+- color: ""
+  prefix: ""
+  suffix: _D4
+  tone_ranges:
+  - D4-D#4
+- color: ""
+  prefix: ""
+  suffix: ""
+  tone_ranges:
+  - C4-C#4
+- color: ""
+  prefix: ""
+  suffix: _A3
+  tone_ranges:
+  - A3-B3
+- color: ""
+  prefix: ""
+  suffix: _G3
+  tone_ranges:
+  - G3-G#3
+- color: ""
+  prefix: ""
+  suffix: _E3
+  tone_ranges:
+  - C1-F#3
